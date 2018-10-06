@@ -1,0 +1,27 @@
+.right {
+		font-size: 70px;
+		text-align: center;
+		color: white;
+}
+.d {
+	background-color: blue;
+	border: 1px solid black;
+}
+
+.s {
+	background-color: red;
+	color: white;
+	}
+
+.rem {
+	border: 1px solid white;
+	display: inline;
+	margin: 5px;
+	padding: 5px;
+	float: left;
+	font-size: 30px;	
+}
+
+.red {
+background-color: orange;	
+}
